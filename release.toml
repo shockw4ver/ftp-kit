@@ -1,0 +1,7 @@
+[info]
+appName = "app"
+appSecret = 'secret'
+CDN_HOST = "0.0.0.0"
+CDN_DOMAIN = 'exam.ple'
+USERNAME = "ftper"
+PASSWORD = "ftperpasswd"
